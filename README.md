@@ -20,7 +20,3 @@ time-intensive parts of fundamental equity analysis:
 This replicates a core workflow in investment banking due diligence — turning 
 qualitative management commentary into quantitative model inputs — in a 
 fully automated pipeline.
-
----
-
-## Architecture
