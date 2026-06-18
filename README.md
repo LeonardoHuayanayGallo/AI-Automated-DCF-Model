@@ -1,3 +1,8 @@
+Hi there 👋
+
+I built this to replace one of the most time-consuming parts of equity research: manually reading a 10-K and converting management's qualitative language into hard model inputs. Instead, an LLM reads the filing, extracts the assumptions, and a Python engine builds the DCF — fully formula-linked in Excel, the same way a banker would model it by hand.
+
+
 # Investment Banking AI Assistant: Automated DCF Valuation & LLM-Driven 10-K Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
