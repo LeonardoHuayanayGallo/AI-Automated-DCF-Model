@@ -20,3 +20,8 @@ time-intensive parts of fundamental equity analysis:
 This replicates a core workflow in investment banking due diligence — turning 
 qualitative management commentary into quantitative model inputs — in a 
 fully automated pipeline.
+
+
+![Image Alt](https://github.com/LeonardoHuayanayGallo/AI-Automated-DCF-Model/blob/aafa465c4185085d40b05e841f33ce9f59bde316/DCF%20Model.png)
+
+![Image Alt](https://github.com/LeonardoHuayanayGallo/AI-Automated-DCF-Model/blob/aafa465c4185085d40b05e841f33ce9f59bde316/Sensitivity%20Analysis.png)
